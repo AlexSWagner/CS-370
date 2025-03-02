@@ -1,6 +1,6 @@
 # Pirate Intelligent Agent Project
 
-This repository contains my Jupyter Notebook and associated files for the Pirate Intelligent Agent project, completed as part of my class. The project demonstrates how key concepts in reinforcement learning and neural networks can be applied to a real-world problem—teaching a pirate agent to navigate a maze and locate treasure before a human competitor.
+This repository contains my Jupyter Notebook for the Pirate Intelligent Agent project, completed as part of my class. The project demonstrates how key concepts in reinforcement learning and neural networks can be applied to a real-world problem—teaching a pirate agent to navigate a maze and locate treasure before a human competitor.
 
 ## Overview
 
